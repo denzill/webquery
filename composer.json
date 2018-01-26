@@ -3,7 +3,6 @@
     "version": "0.1",
     "description": "WebRequest reader",
     "type": "library",
-    "license": "Free",
     "authors": [
         {
             "name": "kachurin",
